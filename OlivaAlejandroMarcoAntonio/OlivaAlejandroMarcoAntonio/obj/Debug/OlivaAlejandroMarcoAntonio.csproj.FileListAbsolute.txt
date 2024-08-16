@@ -1,0 +1,7 @@
+C:\Users\PC-3\Documents\Marco\materias\Estructura de datos\ExamenListasEnlasadas\OlivaAlejandroMarcoAntonio\OlivaAlejandroMarcoAntonio\obj\Debug\OlivaAlejandroMarcoAntonio.csproj.AssemblyReference.cache
+C:\Users\PC-3\Documents\Marco\materias\Estructura de datos\ExamenListasEnlasadas\OlivaAlejandroMarcoAntonio\OlivaAlejandroMarcoAntonio\obj\Debug\OlivaAlejandroMarcoAntonio.csproj.CoreCompileInputs.cache
+C:\Users\PC-3\Documents\Marco\materias\Estructura de datos\ExamenListasEnlasadas\OlivaAlejandroMarcoAntonio\OlivaAlejandroMarcoAntonio\bin\Debug\OlivaAlejandroMarcoAntonio.exe.config
+C:\Users\PC-3\Documents\Marco\materias\Estructura de datos\ExamenListasEnlasadas\OlivaAlejandroMarcoAntonio\OlivaAlejandroMarcoAntonio\bin\Debug\OlivaAlejandroMarcoAntonio.exe
+C:\Users\PC-3\Documents\Marco\materias\Estructura de datos\ExamenListasEnlasadas\OlivaAlejandroMarcoAntonio\OlivaAlejandroMarcoAntonio\bin\Debug\OlivaAlejandroMarcoAntonio.pdb
+C:\Users\PC-3\Documents\Marco\materias\Estructura de datos\ExamenListasEnlasadas\OlivaAlejandroMarcoAntonio\OlivaAlejandroMarcoAntonio\obj\Debug\OlivaAlejandroMarcoAntonio.exe
+C:\Users\PC-3\Documents\Marco\materias\Estructura de datos\ExamenListasEnlasadas\OlivaAlejandroMarcoAntonio\OlivaAlejandroMarcoAntonio\obj\Debug\OlivaAlejandroMarcoAntonio.pdb
